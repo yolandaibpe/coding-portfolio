@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "totemic-alchemy-433321-r4",
+  "private_key_id": "a09286e0362399be2635cfbf5293bf691dadd3e9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDPvg42hHgZiqhS\nVXbHPjyQhpFKUCCas0+sRL9i0Z/9aNa/KszJVNrvP8Zuy3+5eISoRFDG8NASg6q/\nKe/3lL6mFGkjbwuy0oOYNPG3q/bmH6Ea16dZfxXkKlw5wHS8BaUaYX8rAJFxT5+G\nSWifhVK4PM8ueAdlSDdlta0Xv0rUawRsHWIl08sz/rPrJheXQjp4JSpM78abvcgv\nANJXCbjnSQfVKiAo2+We5dv7zsgbDHcONyC4/WkKQB6qQKraUdn96kzOGLUtOSvq\nkD/zIiErJgWClETHjPltiV3NfWiB58H9CwXdCfU8BNADKmS6KDci3P4iksD6rqIi\n3UGjFC5VAgMBAAECggEABUHXhTyr92WBZfgAtgEWskedhKZrdM7F3OOufjc018pf\n6N2R6iRqF/TitioTNOPeY427B5XPhjBr0UOj7X2Hp5dLo9hrEN7v8pmgZlgFOwSg\n5JeBhivHp4sE43dB3QI9j+HYwINWqunrbRANhD/w/HWZfqEN+tutfzbuRvQR1jdF\na4p5Qx4u0thJrmAdc73vTgbzOZvWP9tOfWtl0dPyCgQ5qTURiPrrPeOwuEc/z0hT\nyL/tBRaQ1Lbb5ntGCw9gUoutXPfr9mD0nu3tHQ+2l3C6IyWqnRRRGhTWlNclhSbq\ntQNBQgybfT2nfvKdUmRxnpGrpx/jJwW2dec4NacTPwKBgQDtetTTZ7hiSsbQ3IZR\nNvaHzeevmxCURjVaosSZ2jJk/CRKF6MHqSOmGOG5Ukc+HqPooJrFVTOTQAvuW+8x\nx0bbeNTLudabFtrxFMeKZgpktSnDh/j+/yeHa1LSKLWIFZVjeJZ0IXBbjgMTjHxb\nalBSGjegG3TIhOJerf+rPf1PIwKBgQDf8YgHR+Dq87KE3+K3Ci6r9NUErihiJ5pv\nIjWzZc0VaPr12/pJCVXjjoQoOVExJiQDCFIR6fzwhweP4ItGjGEkqG6BNgStwpC0\nVM/hUCYRVUoyGYISf6DEc12Sj+hQIYu7/bVHrAfhyZ1KdKf5kQSUOesGYpEnoUUg\njdfvofBgJwKBgQDpDi5m+dcdvzy2JHU8pq/yPsQstgTjPrOFq089ncDvEfObMu8v\nyXHOw4RiFrkL4Y4B8ftxxVfEHoqW9Wocc/C52i8bb9mIgjmDdl0NGW8BvjiqR3q4\n5Tap002IKaNdVbEx2VntxhM6BnhGawxvujnxGQGWAtvtHVv6hs/uAfvh+QKBgHqd\nOVibL3gVRHpiRzTnG1TFcdjlLnFHs9QDjBmUtKxzVW1GK4zP0roMbynC8EST2IXc\niWsLjZV4qVhKnpdbB1lV62NN21P0Qtypz0RTaPR2mXBC7SgJv1GwxNwZdR5ir6qX\nqCj89TfX9wosQ0hu8W3jJF7TmxxyvXGsmD25ke5jAoGAKh3/8kA8mGTprQOftPUR\n1V66e/CBq4os8qwWixiOzd7qxbHbn0rHDf+RyZnkxis8yc25h4C5f18Mh6hez1ES\n7YQEt4Et16gUd6Y45+ULXvCP+C88nljvtIbU9BEGbFhVpsNHCuvuAn5JJBG//U5y\nipLKIS1GUrD6EiYLpL+ipr4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "crypto-scrapping-data-ingestio@totemic-alchemy-433321-r4.iam.gserviceaccount.com",
+  "client_id": "105661499407891286659",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/crypto-scrapping-data-ingestio%40totemic-alchemy-433321-r4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
